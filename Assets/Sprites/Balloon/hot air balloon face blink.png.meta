@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: 5f59f4f93d2290242b2a954c01388121
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3705476835745827276
+    second: hot air balloon face blink_0
+  - first:
+      213: 1483039340315115612
+    second: hot air balloon face blink_1
+  - first:
+      213: -3853720551711679728
+    second: hot air balloon face blink_2
+  - first:
+      213: 546229358496552402
+    second: hot air balloon face blink_3
+  - first:
+      213: 1724119298229935159
+    second: hot air balloon face blink_4
+  - first:
+      213: 7478217444287587610
+    second: hot air balloon face blink_5
+  - first:
+      213: 3966409987657773180
+    second: hot air balloon face blink_6
+  - first:
+      213: 4124054392255060563
+    second: hot air balloon face blink_7
+  - first:
+      213: 1659226527927235235
+    second: hot air balloon face blink_8
+  - first:
+      213: -2239573197085666709
+    second: hot air balloon face blink_9
+  - first:
+      213: 6534617173535156161
+    second: hot air balloon face blink_10
+  - first:
+      213: -9111163177383008547
+    second: hot air balloon face blink_11
+  - first:
+      213: 4613935367624825180
+    second: hot air balloon face blink_12
+  - first:
+      213: 1741152515488772295
+    second: hot air balloon face blink_13
+  - first:
+      213: -6905483892612187159
+    second: hot air balloon face blink_14
+  - first:
+      213: 8551295978585956247
+    second: hot air balloon face blink_15
+  - first:
+      213: -628071916665654042
+    second: hot air balloon face blink_16
+  - first:
+      213: 7587244964974573006
+    second: hot air balloon face blink_17
+  - first:
+      213: 6453808226196730211
+    second: hot air balloon face blink_18
+  - first:
+      213: -395757137611697548
+    second: hot air balloon face blink_19
+  - first:
+      213: -2798991783730686419
+    second: hot air balloon face blink_20
+  - first:
+      213: -2705639058731258961
+    second: hot air balloon face blink_21
+  - first:
+      213: -6384388356911112384
+    second: hot air balloon face blink_22
+  - first:
+      213: 1458297393542004922
+    second: hot air balloon face blink_23
+  - first:
+      213: -5932036160328404504
+    second: hot air balloon face blink_24
+  - first:
+      213: -6231924699684258905
+    second: hot air balloon face blink_25
+  - first:
+      213: -5950937672377127739
+    second: hot air balloon face blink_26
+  - first:
+      213: 2489430949070257133
+    second: hot air balloon face blink_27
+  - first:
+      213: -1628104912240306758
+    second: hot air balloon face blink_28
+  - first:
+      213: 6612094604268764429
+    second: hot air balloon face blink_29
+  - first:
+      213: -1033364760003373838
+    second: hot air balloon face blink_30
+  - first:
+      213: -299616272319080236
+    second: hot air balloon face blink_31
+  - first:
+      213: -6542286783250010850
+    second: hot air balloon face blink_32
+  - first:
+      213: 9128296330088766316
+    second: hot air balloon face blink_33
+  - first:
+      213: -5814678895904982430
+    second: hot air balloon face blink_34
+  - first:
+      213: -7591461970186707212
+    second: hot air balloon face blink_35
+  - first:
+      213: -8985681442759534813
+    second: hot air balloon face blink_36
+  - first:
+      213: -2618292621978848617
+    second: hot air balloon face blink_37
+  - first:
+      213: -5696504132673133014
+    second: hot air balloon face blink_38
+  - first:
+      213: 1130727228488116602
+    second: hot air balloon face blink_39
+  - first:
+      213: 7382861833459287064
+    second: hot air balloon face blink_40
+  - first:
+      213: -4348344677509043716
+    second: hot air balloon face blink_41
+  - first:
+      213: 4486755121459460596
+    second: hot air balloon face blink_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hot air balloon face blink_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4367ee94370839cc0800000000000000
+      internalID: -3705476835745827276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot air balloon face blink_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c50896b2c60d49410800000000000000
+      internalID: 1483039340315115612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot air balloon face blink_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b5a9b7395d48ac0800000000000000
+      internalID: -3853720551711679728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot air balloon face blink_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5931f15b8949700800000000000000
+      internalID: 546229358496552402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot air balloon face blink_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c1461fd5d4de710800000000000000
+      internalID: 1724119298229935159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot air balloon face blink_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1524efe427f7c760800000000000000
+      internalID: 7478217444287587610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot air balloon face blink_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7037eb6ed48b0730800000000000000
+      internalID: 3966409987657773180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot air balloon face blink_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a90cc9e959b3930800000000000000
+      internalID: 4124054392255060563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot air balloon face blink_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2f1077cb1c60710800000000000000
+      internalID: 1659226527927235235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c15092d521e762c4c8fa4113d72eb36c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      hot air balloon face blink_0: -3705476835745827276
+      hot air balloon face blink_1: 1483039340315115612
+      hot air balloon face blink_2: -3853720551711679728
+      hot air balloon face blink_3: 546229358496552402
+      hot air balloon face blink_4: 1724119298229935159
+      hot air balloon face blink_5: 7478217444287587610
+      hot air balloon face blink_6: 3966409987657773180
+      hot air balloon face blink_7: 4124054392255060563
+      hot air balloon face blink_8: 1659226527927235235
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
